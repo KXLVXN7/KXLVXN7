@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kxlvxn7&label=Profile%20views&color=0e75b6&style=flat" alt="kxlvxn7" /> </p>
 
-- 🌱 I’m currently learning **Unity , Real Engine**
+- 🌱 I’m currently learning **Unity , Real Engine etc**
 
 - 👨‍💻 All of my projects are available at [ww](ww)
 
