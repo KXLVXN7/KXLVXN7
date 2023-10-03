@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kelvin</h1>
 <h3 align="center">I am an active student of Computer Science specializing in Game Application and Technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kxlvxn7&label=Profile%20views&color=0e75b6&style=flat" alt="kxlvxn7" /> </p>
-
 - 🌱 I’m currently learning **Unity , Real Engine etc**
 
 - 👨‍💻 All of my projects are available at [https://kxlvxn.carrd.co/](https://kxlvxn.carrd.co/)
