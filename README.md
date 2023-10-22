@@ -18,8 +18,8 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
       <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/gif_1.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Test.</td>
-      <td valign="text-top"">Test2".<div></div></td>
+      <td valign="text-top">Project Stir</td>
+      <td valign="text-top"">SoccerPong.<div></div></td>
     </tr>
     <tr>
       <td><a href="https://github.com/fajarnadril/Project-Stir">GitHub page</td>
