@@ -18,8 +18,8 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
       <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/gif_1.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A tower-defense game themed around human immune system. This game was made for PkM (Pengabdian Kepada Masyarakat) BGDC 2022 with other BGDC members. Immunopedia is a game where you need to know and understand what each unit can do, be it ally or enemy.</td>
-      <td valign="text-top"">This game the first game that I got fully made and released. Work Less Play More is a 2D beat-em-up game with a unique mechanic where you need to avoid your boss attention. The game was made for Brackeys Game Jam 2022.1 with the theme "This is not real".<div></div></td>
+      <td valign="text-top">Test.</td>
+      <td valign="text-top"">Test2".<div></div></td>
     </tr>
     <tr>
       <td><a href="https://github.com/fajarnadril/Project-Stir">GitHub page</td>
