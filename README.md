@@ -37,8 +37,8 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/keep-yourself-alive">Keep Yourself Alive 💀</a></th>
-      <th width="50%"><a href="https://bgdc.itch.io/interstellar-janitor">Interstellar Janitor 🧹</a></th>
+      <th width="50%"><a href="">Hopeless 💀</a></th>
+      <th width="50%"><a href="">The Last Blood 🧹</a></th>
     </tr>
   </thead>
   <tbody>
@@ -51,12 +51,12 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
       <td valign="text-top">PROJECT STIR<br></td>
     </tr>
     <tr>
-      <td><a href="https://bgdc.itch.io/keep-yourself-alive">Itch Page</td>
-      <td><a href="https://bgdc.itch.io/interstellar-janitor">Itch Page</td>
+      <td><a href="">Itch Page</td>
+      <td><a href="">Itch Page</td>
     </tr>
     <tr>
-      <td><a href="https://ldjam.com/events/ludum-dare/50/keep-yourself-alive">Jam Page</td>
-      <td><a href="https://itch.io/jam/brackeys-8/rate/1679306">Jam Page</td>
+      <td><a href="">Jam Page</td>
+      <td><a href="">Jam Page</td>
     </tr>
   </tbody>
 </table>
