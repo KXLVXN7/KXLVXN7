@@ -43,12 +43,12 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/wainini/wainini/blob/main/img/keep%20yourself%20alive%20400x225.gif"/></td>
-      <td><img src="https://github.com/wainini/wainini/blob/main/img/interstellar%20janitor%20%20400x225.gif"/></td>
+      <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/giff_1.gif"/></td>
+      <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/giff_1.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">This one was made for Ludum Dare 50 which theme was "Delay the inevitable". It's a simple top-down survival game. The caveat is that your HP is always decreasing, making you always on the run for the randomly spawned heals.</td>
-      <td valign="text-top">Interstellar Janitor is my try at making tile-based movement and some dialogue system. The game itself was made for Brackeys Game Jam 2022.2 and was themed around the Jam theme "You're not alone". It's a logic puzzle game where you need to read clues scattered around the spaceship to deduce some objects that might just be an alien in disguise.<br></td>
+      <td valign="text-top">PROJECT STIR.</td>
+      <td valign="text-top">PROJECT STIR<br></td>
     </tr>
     <tr>
       <td><a href="https://bgdc.itch.io/keep-yourself-alive">Itch Page</td>
