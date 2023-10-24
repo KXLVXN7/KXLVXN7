@@ -43,7 +43,7 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/giff_1.gif"/></td>
+      <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif"/></td>
       <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/giff_1.gif"/></td>
     </tr>
     <tr>
