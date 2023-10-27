@@ -27,7 +27,7 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://itch.io/jam/brackeys-7/rate/1408323">GitHub Page</td>
+      <td><a href="https://github.com/KXLVXN7/SoccerPong">GitHub Page</td>
     </tr>
   </tbody>
 </table>
@@ -51,12 +51,12 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
       <td valign="text-top">PROJECT STIR<br></td>
     </tr>
     <tr>
-      <td><a href="">Itch Page</td>
+      <td><a href="">GitHub Page</td>
       <td><a href="">Itch Page</td>
     </tr>
     <tr>
-      <td><a href="">Jam Page</td>
-      <td><a href="">Jam Page</td>
+      <td><a href="">GitHub Page</td>
+      <td><a href="">Itch Page</td>
     </tr>
   </tbody>
 </table>
