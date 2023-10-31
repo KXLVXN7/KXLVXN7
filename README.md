@@ -52,10 +52,10 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
     </tr>
     <tr>
       <td><a href="">GitHub Page</td>
-      <td><a href="">Itch Page</td>
+      <td><a href="">GitHub Page</td>
     </tr>
     <tr>
-      <td><a href="">GitHub Page</td>
+      <td><a href="">Itch Page</td>
       <td><a href="">Itch Page</td>
     </tr>
   </tbody>
