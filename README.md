@@ -51,7 +51,7 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
       <td valign="text-top">PROJECT STIR<br></td>
     </tr>
     <tr>
-      <td><a href="">GitHub Page</td>
+      <td><a href="https://github.com/KXLVXN7/Hopeless-KXLVXN">GitHub Page</td>
       <td><a href="">GitHub Page</td>
     </tr>
     <tr>
