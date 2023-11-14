@@ -38,13 +38,13 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
   <thead>
     <tr>
       <th width="50%"><a href="">Hopeless 💀</a></th>
-      <th width="50%"><a href="">The Last Blood 🧹</a></th>
+      <th width="50%"><a href="">The Battle Of Lengkong🧹</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif"/></td>
-      <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/giff_1.gif"/></td>
+      <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/tbol.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">PROJECT STIR.</td>
