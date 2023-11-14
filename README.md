@@ -47,8 +47,8 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
       <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/tbol.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">PROJECT STIR.</td>
-      <td valign="text-top">PROJECT STIR<br></td>
+      <td valign="text-top">Hopeless</td>
+      <td valign="text-top">The Battke Of Lengkong<br></td>
     </tr>
     <tr>
       <td><a href="https://github.com/KXLVXN7/Hopeless-KXLVXN">GitHub Page</td>
