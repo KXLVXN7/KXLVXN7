@@ -52,11 +52,11 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
     </tr>
     <tr>
       <td><a href="https://github.com/KXLVXN7/Hopeless-KXLVXN">GitHub Page</td>
-      <td><a href="">GitHub Page</td>
+      <td><a href="https://github.com/KXLVXN7/TheBattleOf_Lengkong">GitHub Page</td>
     </tr>
     <tr>
-      <td><a href="">Itch Page</td>
-      <td><a href="">Itch Page</td>
+      <td><a href="https://kxlvxn.itch.io/hopeless">Itch Page</td>
+      <td><a href="kxlvxn.itch.io/the-battle-of-lengkong">Itch Page</td>
     </tr>
   </tbody>
 </table>
