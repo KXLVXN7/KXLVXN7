@@ -18,7 +18,7 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
       <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/gif_1.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Project Stir</td>
+      <td valign="text-top">ProjectStir [Pre-Alpha] is a driving simulation application meticulously crafted to assess driving skills performance using a game-centric approach. Within this application, drivers or users are tasked with navigating a cityscape, all the while gathering vital checkpoints. The performance evaluation revolves around quantifying the number of checkpoints successfully acquired within specific time constraints. This performance assessment also encompasses a metric denoted as damage, which quantifies the extent of vehicular wear and tear sustained throughout the driving experience.</td>
       <td valign="text-top"">SoccerPong.<div></div></td>
     </tr>
     <tr>
