@@ -48,7 +48,7 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
     </tr>
     <tr>
       <td valign="text-top">Hopeless</td>
-      <td valign="text-top">The Battke Of Lengkong<br></td>
+      <td valign="text-top">This game is a survival shooter platformer with the theme of Indonesian heroism, featuring Daan Mogot. The story revolves around Daan Mogot, who must survive attacks from the Japanese army. Players take on the role of Daan Mogot and are challenged to withstand the assault as best as possible. Set against a historical backdrop, the narrative follows Daan Mogot and his troops, who must sacrifice themselves after engaging in a battle against the Japanese forces. With a historical theme, the game aims to provide players with education and new knowledge, offering an entertaining and tense gaming experience.<br></td>
     </tr>
     <tr>
       <td><a href="https://github.com/KXLVXN7/Hopeless-KXLVXN">GitHub Page</td>
