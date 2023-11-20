@@ -19,7 +19,7 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
     </tr>
     <tr>
       <td valign="text-top">ProjectStir [Pre-Alpha] is a driving simulation application meticulously crafted to assess driving skills performance using a game-centric approach. Within this application, drivers or users are tasked with navigating a cityscape, all the while gathering vital checkpoints. The performance evaluation revolves around quantifying the number of checkpoints successfully acquired within specific time constraints. This performance assessment also encompasses a metric denoted as damage, which quantifies the extent of vehicular wear and tear sustained throughout the driving experience.</td>
-      <td valign="text-top"">SoccerPong.<div></div></td>
+      <td valign="text-top"">Soccer Pong is a thrilling game that combines the classic Pong experience with the excitement of soccer. Compete against friends (P1 & P2) or challenging BOT opponents, aiming to score goals within a 10-minute match. The fast-paced gameplay demands precision and strategy as you navigate the ball past opponents to secure victory. With vibrant visuals and immersive sound effects, Soccer Pong transforms the traditional Pong concept into a dynamic sports showdown, providing an exhilarating gaming experience for players of all skill levels. Are you ready to showcase your goal-scoring skills and become the Soccer Pong champion?<div></div></td>
     </tr>
     <tr>
       <td><a href="https://github.com/fajarnadril/Project-Stir">GitHub page</td>
