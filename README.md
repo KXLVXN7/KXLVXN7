@@ -9,7 +9,7 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
   <thead>
     <tr>
       <th width="50%"><a href="https://github.com/fajarnadril/Project-Stir">Project Stir 🦠</a></th>
-      <th width="50%"><a href="https://kxlvxn.itch.io/soccerpong">Soccer Pong 🎮</a></th>
+      <th width="50%"><a href="">Soccer Pong 🎮</a></th>
     </tr>
   </thead>
   <tbody>
