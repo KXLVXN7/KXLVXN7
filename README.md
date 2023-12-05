@@ -2,7 +2,7 @@
 ---
 Nice to meet you! I am an active student of Computer Science specializing in Game Application and Technology 🎮
 
-*All the GIFs are linked to their respective itch.io & github page*
+
 
 # 
 <table width="100%">
