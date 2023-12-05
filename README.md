@@ -37,7 +37,7 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="">Hopeless 💀</a></th>
+      <th width="50%"><a href="">Hopeless </a></th>
       <th width="50%"><a href="">The Battle Of Lengkong</a></th>
     </tr>
   </thead>
