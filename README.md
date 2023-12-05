@@ -8,8 +8,8 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://github.com/fajarnadril/Project-Stir">Project Stir </a></th>
-      <th width="50%"><a href="">Soccer Pong </a></th>
+      <th width="50%" align="center"><a href="https://github.com/fajarnadril/Project-Stir">Project Stir </a></th>
+      <th width="50%" align="center"><a href="">Soccer Pong </a></th>
     </tr>
   </thead>
   <tbody>
@@ -22,12 +22,12 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
       <td valign="text-top"">Soccer Pong is a thrilling game that combines the classic Pong experience with the excitement of soccer. Compete against friends (P1 & P2) or challenging BOT opponents, aiming to score goals within a 10-minute match. The fast-paced gameplay demands precision and strategy as you navigate the ball past opponents to secure victory. With vibrant visuals and immersive sound effects, Soccer Pong transforms the traditional Pong concept into a dynamic sports showdown, providing an exhilarating gaming experience for players of all skill levels. Are you ready to showcase your goal-scoring skills and become the Soccer Pong champion?<div></div></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/fajarnadril/Project-Stir">GitHub page</td>
-      <td><a href="https://kxlvxn.itch.io/soccerpong">Itch Page</td>
+      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">GitHub page</td>
+      <td align="center"><a href="https://kxlvxn.itch.io/soccerpong">Itch Page</td>
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://github.com/KXLVXN7/SoccerPong">GitHub Page</td>
+      <td align="center"><a href="https://github.com/KXLVXN7/SoccerPong">GitHub Page</td>
     </tr>
   </tbody>
 </table>
@@ -37,8 +37,8 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="">Hopeless </a></th>
-      <th width="50%"><a href="">The Battle Of Lengkong</a></th>
+      <th width="50%" align="center"><a href="">Hopeless</a></th>
+      <th width="50%" align="center"><a href="">The Battle Of Lengkong</a></th>
     </tr>
   </thead>
   <tbody>
@@ -51,12 +51,12 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
       <td valign="text-top">This game is a survival shooter platformer with the theme of Indonesian heroism, featuring Daan Mogot. The story revolves around Daan Mogot, who must survive attacks from the Japanese army. Players take on the role of Daan Mogot and are challenged to withstand the assault as best as possible. Set against a historical backdrop, the narrative follows Daan Mogot and his troops, who must sacrifice themselves after engaging in a battle against the Japanese forces. With a historical theme, the game aims to provide players with education and new knowledge, offering an entertaining and tense gaming experience.<br></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KXLVXN7/Hopeless-KXLVXN">GitHub Page</td>
-      <td><a href="https://github.com/KXLVXN7/TheBattleOf_Lengkong">GitHub Page</td>
+      <td align="center"><a href="https://github.com/KXLVXN7/Hopeless-KXLVXN">GitHub Page</td>
+      <td align="center"><a href="https://github.com/KXLVXN7/TheBattleOf_Lengkong">GitHub Page</td>
     </tr>
     <tr>
-      <td><a href="https://kxlvxn.itch.io/hopeless">Itch Page</td>
-      <td><a href="https://kxlvxn.itch.io/the-battle-of-lengkong">Itch Page</td>
+      <td align="center"><a href="https://kxlvxn.itch.io/hopeless">Itch Page</td>
+      <td align="center"><a href="https://kxlvxn.itch.io/the-battle-of-lengkong">Itch Page</td>
     </tr>
   </tbody>
 </table>
