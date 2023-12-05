@@ -37,25 +37,25 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="">Hopeless</a></th>
+<!--       <th width="50%" align="center"><a href="">Hopeless</a></th> -->
       <th width="50%" align="center"><a href="">The Battle Of Lengkong</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif"/></td>
-      <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/tbol.gif"/></td>
+<!--       <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif"/></td> -->
+      <td align="center"><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/tbol.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">"Hopeless" is a dark and ominous game that immerses players in a series of deadly challenges. Throughout their journey, players will encounter lethal traps that require wit and agility to overcome. Only by successfully navigating each challenge can players advance to the next level. The dark and mysterious atmosphere creates an intense and captivating gaming experience, where only the most skilled and daring can emerge victorious in this game.</td>
+<!--       <td valign="text-top">"Hopeless" is a dark and ominous game that immerses players in a series of deadly challenges. Throughout their journey, players will encounter lethal traps that require wit and agility to overcome. Only by successfully navigating each challenge can players advance to the next level. The dark and mysterious atmosphere creates an intense and captivating gaming experience, where only the most skilled and daring can emerge victorious in this game.</td> -->
       <td valign="text-top">This game is a survival shooter platformer with the theme of Indonesian heroism, featuring Daan Mogot. The story revolves around Daan Mogot, who must survive attacks from the Japanese army. Players take on the role of Daan Mogot and are challenged to withstand the assault as best as possible. Set against a historical backdrop, the narrative follows Daan Mogot and his troops, who must sacrifice themselves after engaging in a battle against the Japanese forces. With a historical theme, the game aims to provide players with education and new knowledge, offering an entertaining and tense gaming experience.<br></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/KXLVXN7/Hopeless-KXLVXN">GitHub Page</td>
+<!--       <td align="center"><a href="https://github.com/KXLVXN7/Hopeless-KXLVXN">GitHub Page</td> -->
       <td align="center"><a href="https://github.com/KXLVXN7/TheBattleOf_Lengkong">GitHub Page</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://kxlvxn.itch.io/hopeless">Itch Page</td>
+<!--       <td align="center"><a href="https://kxlvxn.itch.io/hopeless">Itch Page</td> -->
       <td align="center"><a href="https://kxlvxn.itch.io/the-battle-of-lengkong">Itch Page</td>
     </tr>
   </tbody>
