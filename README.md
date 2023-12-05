@@ -4,7 +4,7 @@ Nice to meet you! I am an active student of Computer Science specializing in Gam
 
 *All the GIFs are linked to their respective itch.io & github page*
 
-# Here are highlights from some of the games I made:
+# 
 <table width="100%">
   <thead>
     <tr>
